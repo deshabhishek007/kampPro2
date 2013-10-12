@@ -1,0 +1,23 @@
+.listedContact{
+	padding:20px;
+	font-size:13px !important;
+}
+.listedContact span{
+	font-weight:bold;
+}
+.listedContact a{
+	color:#000 !important;
+}
+.listedContact .icon{
+	width:50px; 
+	float:left;
+	margin-right:20px;
+}
+.listedContact .name{
+	width:600px; 
+	float:left;
+}
+.listedContact .contactDetails{
+	width:600px; 
+	float:left;
+}
